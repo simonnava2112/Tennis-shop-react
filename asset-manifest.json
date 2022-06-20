@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.f0a26e99.css",
+    "main.css": "/static/css/main.343d9c73.css",
     "main.js": "/static/js/main.e14c9fce.js",
     "static/media/prointer.jpg": "/static/media/prointer.4947d446b16a19f8f41f.jpg",
     "static/media/whap-logo.png": "/static/media/whap-logo.d1038eb1bce26b4dab85.png",
@@ -48,11 +48,11 @@
     "static/media/anti-pelota.jpg": "/static/media/anti-pelota.4298984d088ad79220d4.jpg",
     "static/media/plomo.jpg": "/static/media/plomo.9155d9cf482c1f5ad329.jpg",
     "index.html": "/index.html",
-    "main.f0a26e99.css.map": "/static/css/main.f0a26e99.css.map",
+    "main.343d9c73.css.map": "/static/css/main.343d9c73.css.map",
     "main.e14c9fce.js.map": "/static/js/main.e14c9fce.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0a26e99.css",
+    "static/css/main.343d9c73.css",
     "static/js/main.e14c9fce.js"
   ]
 }
