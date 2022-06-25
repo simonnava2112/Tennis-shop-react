@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.343d9c73.css",
-    "main.js": "/static/js/main.e14c9fce.js",
+    "main.css": "/static/css/main.8f188f86.css",
+    "main.js": "/static/js/main.5c430c02.js",
     "static/media/prointer.jpg": "/static/media/prointer.4947d446b16a19f8f41f.jpg",
     "static/media/whap-logo.png": "/static/media/whap-logo.d1038eb1bce26b4dab85.png",
     "static/media/xplosive-speed.jpg": "/static/media/xplosive-speed.8a3d82b0e400cd5170b3.jpg",
@@ -48,11 +48,11 @@
     "static/media/anti-pelota.jpg": "/static/media/anti-pelota.4298984d088ad79220d4.jpg",
     "static/media/plomo.jpg": "/static/media/plomo.9155d9cf482c1f5ad329.jpg",
     "index.html": "/index.html",
-    "main.343d9c73.css.map": "/static/css/main.343d9c73.css.map",
-    "main.e14c9fce.js.map": "/static/js/main.e14c9fce.js.map"
+    "main.8f188f86.css.map": "/static/css/main.8f188f86.css.map",
+    "main.5c430c02.js.map": "/static/js/main.5c430c02.js.map"
   },
   "entrypoints": [
-    "static/css/main.343d9c73.css",
-    "static/js/main.e14c9fce.js"
+    "static/css/main.8f188f86.css",
+    "static/js/main.5c430c02.js"
   ]
 }
